@@ -1,49 +1,45 @@
-<meta charset="utf-8">
-<link rel="stylesheet" href="css/style.css">
-
+  <br><br><br>        <br><br><br>
 
 </div>
-<footer>
-<div class="container">
-<div class="row-fluid">
+                <!-- Divider -->
 
-<section class="ftr_lnks">
-<h3>menu links</h3>
-<ul><li><a href="#"></a></li><li><a href="#">About Us</a></li><li><a href="#">Products</a></li><li><a href="#">Services</a></li></ul>
-<ul><li><a href="#"></a></li><li><a href="#">Contact us</a></li></ul>
-</section>
+                <!-- Begin Top Columns -->
 
 
-<section class="ftr_lnks">
-<h3>Quick links</h3>
-<ul><li><a href="#">Facilities</a></li><li><a href="#">Quality Policies</a></li><li><a href="#">Warranty Policies</a></li><li><a href="#">Objectives</a></li></ul>
-
-</section>
 
 
-<section class="ftr_lnks">
-<h3>Contact us</h3>
-<p> Airport Road , &nbsp;Alobidan Building<br />Before Air force r/a above<br />QNB Bank 2nd Floor ,&nbsp;Office #7<br />Tel: 44551061 Fax: 44551061<br /> Email: mohammed.babz@yahoo.com</p>
-</section>
+                <!-- Begin 4 Columns -->
 
 
-<section class="ftr_scl">
-<div class="follow_us"><h2 style=" color:#7f7f98">follow us on:</h2>
-<a href="#" class="gle_pls" title="Google+"></a><a href="#" class="linked" title="Linked In"></a><a href="#" class="twitter" title="Twitter"></a><a href="#" class="facebook" title="Facebook"></a>
+                <!-- Divider -->
+
+                <!-- Begin Latest Works -->
+                <!--<h2>Latest Works</h2>
+                <div class="carousel">
+                  <div id="carousel-scroll"><a href="#" id="prev">Prev</a><a href="#" id="next">Next</a></div>
+                  <ul>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c1.jpg" alt="" /> </a> </li>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c2.jpg" alt="" /> </a> </li>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c3.jpg" alt="" /> </a> </li>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c4.jpg" alt="" /> </a> </li>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c5.jpg" alt="" /> </a> </li>
+                    <li> <a href="#"> <span class="overlay details"></span><img src="style/images/art/c6.jpg" alt="" /> </a> </li>
+                  </ul>
+                </div>
+                <!-- End Latest Works -->
 
 
-</div>
 
-</section>
 
-</div>
+            </div>
+            <!-- End Container -->
 
-</footer>
-<div class="powered">
-<div class="container">
-<div class="left">Copyright © 2017 StudNet All rights reserved</div>
-<div class="right">Powered by : <a target="_blank" href="http://pcplglobal.com/">StudNet</a></div>
-</div>
-</div>
-</body>
+            <div id="copyright" class="opacity">
+                <p>© 2018 VirtualQueue. All Right Reserved.</p>
+            </div>
+        </div>
+        <!-- End Wrapper -->
+
+        <script type="text/javascript" src="style/js/scripts.js"></script>
+    </body>
 </html>
